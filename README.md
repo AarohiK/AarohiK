@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Aarohi Katoch
+👋 Hi, I’m Aarohi Katoch
 - First year Mathematics student at the University of Waterloo
 - LinkedIn: https://www.linkedin.com/in/aarohi-katoch-7a493b213/
 - Email: a3katoch@uwaterloo.ca 
