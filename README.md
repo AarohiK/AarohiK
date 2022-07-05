@@ -2,7 +2,7 @@
 - Second year Mathematics student at the University of Waterloo
 - Studying Statistics with a Computing Minor
 - LinkedIn: https://www.linkedin.com/in/aarohi-katoch-7a493b213/
-- Email: AarohiKatoch@outlook.com
+- Email: a3katoch@uwaterloo.ca
 
 
 <!---
