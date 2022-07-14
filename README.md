@@ -1,4 +1,4 @@
-###👋 Hi, I’m Aarohi Katoch
+##👋 Hi, I’m Aarohi Katoch
 - Second year Mathematics student at the University of Waterloo
 - Studying Statistics with a Computing Minor
 - LinkedIn: https://www.linkedin.com/in/aarohi-katoch-7a493b213/
