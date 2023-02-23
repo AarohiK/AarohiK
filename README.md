@@ -1,5 +1,5 @@
 ## **👋 Hi, I’m Aarohi Katoch**
- I am a second year Mathematics student at the University of Waterloo studying Statistics and Computer Science. 
+ I am a second year Mathematics student at the University of Waterloo studying Honours Statistics and Computer Science. 
  I've created various projects with a focus on data science/ analytics.
  
  - LinkedIn: https://www.linkedin.com/in/aarohi-katoch-7a493b213/
