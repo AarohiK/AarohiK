@@ -1,9 +1,9 @@
 ## **👋 Hi, I’m Aarohi Katoch**
- I am a second year Mathematics student at the University of Waterloo studying Honours Statistics and Computer Science. 
- I've created various projects with a focus on data science/ analytics.
+ I am a final year Honours Statistics & Computer Science student at the University of Waterloo.
+ I've created various projects with a focus on Cybersecurity, AI & ML.
  
- - LinkedIn: https://www.linkedin.com/in/aarohi-katoch-7a493b213/
- - Email: a3katoch@uwaterloo.ca
+ - LinkedIn: https://www.linkedin.com/in/aarohikatoch/
+ - Email: AarohiKatoch@outlook.com
 
 
 <!---
